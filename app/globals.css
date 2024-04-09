@@ -18,11 +18,17 @@ min-height: 100vh;
 a{
   text-decoration: none;
   padding: 5px;
+  /* color: black; */
 }
+
 .page{
   padding: 10px;
 
 }
+form{
+  padding: 10px;
+}
+
 .footer{
   position: sticky;
   width: 100%;
